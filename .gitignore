@@ -1,3 +1,4 @@
 data/
 runs/
 weights/
+/gnn/ieee-fraud-detection
